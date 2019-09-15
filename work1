@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <Windows.h>
+#include <iostream>
+
+using namespace std;
+
+int min () {
+  int a, max;
+  max = 0;
+  const N = 5;
+  for (i = 0, i < N, i++) {
+    cout >> a[i];
+    if (a[i] > max) {
+      max = a[i];
+      }
+    }
+  cin << max;
+  }
+   
